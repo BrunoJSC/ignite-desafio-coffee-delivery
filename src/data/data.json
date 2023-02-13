@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Expresso Tradicional",
+    "info": "O tradicional café feito com água quente e grãos moídos",
+    "image": "/images/coffee1.png",
+    "price": 9.9
+  },
+  {
+    "id": 2,
+    "name": "Expresso Americano",
+    "info": "Expresso diluído, menos intenso que o tradicional",
+    "image": "/images/coffee2.png",
+    "price": 9.9
+  },
+  {
+    "id": 3,
+    "name": "Expresso Cremoso",
+    "info": "Café expresso tradicional com espuma cremosa",
+    "image": "/images/coffee3.png",
+    "price": 9.9
+  },
+  {
+    "id": 4,
+    "name": "Expresso Gelado",
+    "info": "Bebida preparada com café expresso e cubos de gelo",
+    "image": "/images/coffee4.png",
+    "price": 9.9
+  },
+  {
+    "id": 5,
+    "name": "Café com Leite",
+    "info": "Meio a meio de expresso tradicional com leite vaporizado",
+    "image": "/images/coffee5.png",
+    "price": 9.9
+  },
+  {
+    "id": 6,
+    "name": "Latte",
+    "info": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+    "image": "/images/coffee6.png",
+    "price": 9.9
+  },
+  {
+    "id": 7,
+    "name": "Capuccino",
+    "info": "Bebida com canela feita de doses iguais de café, leite e espuma",
+    "image": "/images/coffee7.png",
+    "price": 9.9
+  },
+  {
+    "id": 8,
+    "name": "Macchiato",
+    "info": "Café expresso misturado com um pouco de leite quente e espuma",
+    "image": "/images/coffee8.png",
+    "price": 9.9
+  },
+  {
+    "id": 9,
+    "name": "Mocaccino",
+    "info": "Café expresso com calda de chocolate, pouco leite e espuma",
+    "image": "/images/coffee9.png",
+    "price": 9.9
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Quente",
+    "info": "Bebida feita com chocolate dissolvido no leite quente e café",
+    "image": "images/coffee10.png",
+    "price": 9.9
+  },
+  {
+    "id": 11,
+    "name": "Cubano",
+    "info": "Drink gelado de café expresso com rum, creme de leite e hortelã",
+    "image": "/images/coffee11.png",
+    "price": 9.9
+  },
+  {
+    "id": 12,
+    "name": "Havaiano",
+    "info": "Bebida adocicada preparada com café e leite de coco",
+    "image": "/images/coffee12.png",
+    "price": 9.9
+  },
+  {
+    "id": 13,
+    "name": "Árabe",
+    "info": "Bebida preparada com grãos de café árabe e especiarias",
+    "image": "/images/coffee13.png",
+    "price": 9.9
+  },
+  {
+    "id": 14,
+    "name": "Irlandês",
+    "info": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
+    "image": "images/coffee14.png",
+    "price": 9.9
+  }
+]
